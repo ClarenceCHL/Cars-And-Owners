@@ -1,0 +1,44 @@
+<div class="d-flex flex-row bd-highlight mb-3">
+
+<div class="form-froup row" style="width: 60%;">
+    <label class="col-sm-2 col-form-label">车主名</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="OwnerName"
+        placeholder="输入车辆拥有者姓名">
+    </div>
+
+    <label class="col-sm-2 col-form-label">年龄</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="OwnerAge"
+        placeholder="输入车辆拥有者年龄">
+    </div>
+
+    <label class="col-sm-2 col-form-label">车型名</label>
+    <div class="col-sm-10">
+        <select class="form-control" [(ngModel)]="Models">
+            <option>--请选择--</option>
+            <option *ngFor="let carName of CarsList">
+                {{carName.Models}}
+            </option>
+        </select>
+    </div>
+
+    <label class="col-sm-2 col-form-label">购买时间</label>
+    <div class="col-sm-10">
+        <input type="date" [(ngModel)]="DateOfPurchase">
+    </div>
+</div>
+
+<div class="ml-3 bd-highlight" style="width: 40%;">
+<img [src]=PhotoFilePath height="250px;" width="200px;">
+<input type="file" (change)="uploadPhoto($event)" class="mt-2"/>
+</div>
+</div>
+
+<button (click)="addOwner()" *ngIf="carowners.Ownerid==0" class="btn btn-primary">
+    新增
+</button>
+
+<button (click)="updateCarOwner()" *ngIf="carowners.Ownerid!=0" class="btn btn-primary">
+    更新
+</button>
