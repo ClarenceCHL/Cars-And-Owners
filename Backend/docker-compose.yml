@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  teslacarsandowners:
+    image: ${DOCKER_REGISTRY-}teslacarsandowners
+    build:
+      context: .
+      dockerfile: TeslaCarsAndOwners/Dockerfile
