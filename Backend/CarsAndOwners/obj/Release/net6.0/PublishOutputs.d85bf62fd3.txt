@@ -1,0 +1,17 @@
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/TeslaCarsAndOwners
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/TeslaCarsAndOwners.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/TeslaCarsAndOwners.deps.json
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/TeslaCarsAndOwners.runtimeconfig.json
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/TeslaCarsAndOwners.pdb
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/Microsoft.AspNetCore.JsonPatch.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/Newtonsoft.Json.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/Newtonsoft.Json.Bson.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/System.Data.SqlClient.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/runtimes/win-arm64/native/sni.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/runtimes/win-x64/native/sni.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/runtimes/win-x86/native/sni.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/haoluncheng/Desktop/Tesla/TeslaTest/TeslaCarsAndOwners/TeslaCarsAndOwners/obj/Release/net6.0/PubTmp/Out/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
