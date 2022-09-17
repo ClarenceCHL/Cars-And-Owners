@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/Backend/Backend/TeslaCarsAndOwners/TeslaCarsAndOwners.csproj": {}
+    "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/BE/Backend/TeslaCarsAndOwners/TeslaCarsAndOwners.csproj": {}
   },
   "projects": {
-    "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/Backend/Backend/TeslaCarsAndOwners/TeslaCarsAndOwners.csproj": {
+    "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/BE/Backend/TeslaCarsAndOwners/TeslaCarsAndOwners.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/Backend/Backend/TeslaCarsAndOwners/TeslaCarsAndOwners.csproj",
+        "projectUniqueName": "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/BE/Backend/TeslaCarsAndOwners/TeslaCarsAndOwners.csproj",
         "projectName": "TeslaCarsAndOwners",
-        "projectPath": "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/Backend/Backend/TeslaCarsAndOwners/TeslaCarsAndOwners.csproj",
+        "projectPath": "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/BE/Backend/TeslaCarsAndOwners/TeslaCarsAndOwners.csproj",
         "packagesPath": "/Users/haoluncheng/.nuget/packages/",
-        "outputPath": "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/Backend/Backend/TeslaCarsAndOwners/obj/",
+        "outputPath": "/Users/haoluncheng/Desktop/Tesla/CarsAndOwners/BE/Backend/TeslaCarsAndOwners/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/haoluncheng/.nuget/NuGet/NuGet.Config"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

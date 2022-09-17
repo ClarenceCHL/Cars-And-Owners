@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿// Author: Haolun Cheng
+
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using TeslaCarsAndOwners.Models;
 
